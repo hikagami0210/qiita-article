@@ -1,0 +1,21 @@
+------------準備------------
+
+nodeのバージョンを切り替え
+nvm use v18.17.1
+
+
+----------qiita CLI command--------
+
+記事ファイルを更新
+npx qiita pull
+
+新しい記事を作成
+npx qiita new 記事名
+
+記事の更新
+npx qiita publish 記事名
+
+Qiita Previewを起動
+npx qiita preview
+
+

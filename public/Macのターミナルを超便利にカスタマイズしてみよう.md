@@ -1,12 +1,12 @@
 ---
 title: "【プログラミング初心者向け】Macのターミナルを超便利にカスタマイズしてみよう "
 tags:
-    - Zsh
-    - Mac
-    - iTerm2
-    - Terminal
+  - Zsh
+  - Mac
+  - iTerm2
+  - Terminal
 private: false
-updated_at: "2023-07-13T15:06:32+09:00"
+updated_at: "2023-08-12T22:33:46+09:00"
 id: 560bd0b2a413ef08ad46
 organization_url_name: null
 slide: false

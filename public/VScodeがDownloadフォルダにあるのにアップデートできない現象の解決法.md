@@ -1,8 +1,8 @@
 ---
 title: VScodeがDownloadフォルダにあるのにアップデートできない現象の解決法
 tags:
-  - Mac
-  - VSCode
+    - Mac
+    - VSCode
 private: false
 updated_at: "2023-08-12T21:50:13+09:00"
 id: d6861e8de5bf513c2c96
@@ -43,4 +43,4 @@ xattr -dr com.apple.quarantine /Applications/Visual\ Studio\ Code.app
 ### おわりに
 
 今回、Qiita CLI を使用して記事を書きましたが思ったより使いやすいのでおすすめです。
-<https://github.com/increments/qiita-cli>
+https://github.com/increments/qiita-cli

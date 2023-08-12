@@ -1,10 +1,10 @@
 ---
 title: Macのターミナルに表示される~noMacbook-Airを消す
 tags:
-  - Terminal
-  - MacBook
+    - Terminal
+    - MacBook
 private: false
-updated_at: "2023-07-09T19:54:17+09:00"
+updated_at: "2023-08-12T22:10:56+09:00"
 id: 3d71657a4e312236dead
 organization_url_name: null
 slide: false

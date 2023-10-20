@@ -1,10 +1,10 @@
 ---
 title: VScodeがDownloadフォルダにあるのにアップデートできない現象の解決法
 tags:
-  - Mac
-  - VSCode
+    - Mac
+    - VSCode
 private: false
-updated_at: "2023-08-12T22:33:18+09:00"
+updated_at: "2023-08-12T22:33:43+09:00"
 id: d6861e8de5bf513c2c96
 organization_url_name: null
 slide: false

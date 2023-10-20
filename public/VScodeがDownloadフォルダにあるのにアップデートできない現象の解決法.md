@@ -8,6 +8,7 @@ updated_at: '2023-08-12T22:33:43+09:00'
 id: d6861e8de5bf513c2c96
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 調べて出てくるのは大体`Visual Studio Code.app`が Download フォルダにないから、という理由ですが、ちゃんと Application フォルダにあったのにエラーが出ていたので解決法を探した。

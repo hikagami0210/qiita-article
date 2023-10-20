@@ -8,6 +8,7 @@ updated_at: '2023-08-12T22:10:56+09:00'
 id: 3d71657a4e312236dead
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 Macbook のターミナルを開いた時や Bluetooth 名などに表示される、

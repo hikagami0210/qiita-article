@@ -17,5 +17,3 @@ npx qiita publish 記事名
 
 Qiita Previewを起動
 npx qiita preview
-
-

@@ -6,7 +6,7 @@ tags:
   - iTerm2
   - Terminal
 private: false
-updated_at: '2023-08-12T22:33:46+09:00'
+updated_at: '2023-11-25T14:57:39+09:00'
 id: 560bd0b2a413ef08ad46
 organization_url_name: null
 slide: false
@@ -81,7 +81,7 @@ uninstall_oh_my_zsh
 
 <details><summary>余談</summary>
 
-以前 oh-my-zsh インストール時に「.zshrc リセット!?なにしてくれてんだ!!」と憤っていましたが、しっかり　`~/.zshrc.pre-oh-my-zsh-{日時}`　にバックアップされるようです...。
+以前 oh-my-zsh インストール時に、.zshrcがリセットされていることに憤っていましたがしっかり`~/.zshrc.pre-oh-my-zsh-{日時}`　にバックアップされるようです...。
 
 </details>
 

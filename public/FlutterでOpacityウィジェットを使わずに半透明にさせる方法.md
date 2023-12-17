@@ -23,7 +23,7 @@ Colorプロパティの.withOpacityを使う
 Container(
     height : 100,
     width : 100,
-              
+
     color: Colors.red.withOpacity(0.5),
                       ^^^^^^^^^^^^^^^^
 
@@ -32,7 +32,7 @@ Container(
         height : 50,
         width : 50,
         color : Colors.blueAccent,
-    ), 
+    ),
 ),
 ```
 

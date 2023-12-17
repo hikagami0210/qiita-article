@@ -1,10 +1,10 @@
 ---
-title: 'VSCodeでGitLensを使った時に現れる謎のアイコンを変える'
+title: VSCodeでGitLensを使った時に現れる謎のアイコンを変える
 tags:
   - VSCode
   - GitLens
 private: false
-updated_at: '2023-11-29T14:40:26+09:00'
+updated_at: '2023-12-17T17:35:12+09:00'
 id: 9faf2b6de7ba7d04e3fe
 organization_url_name: null
 slide: false

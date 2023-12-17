@@ -5,7 +5,7 @@ tags:
   - Flutter
   - FirebaseAnalytics
 private: false
-updated_at: '2023-11-01T09:53:35+09:00'
+updated_at: '2023-12-17T17:35:12+09:00'
 id: da9e652e5104d6d9929f
 organization_url_name: null
 slide: false
